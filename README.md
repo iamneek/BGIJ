@@ -2,5 +2,5 @@ Learning Java by trying to code some games from the book '101 BASIC computer gam
 
 Games:
 
-- [ x ]Aceydu: Simulation of the Acey Ducey card game.
+- [x] 1. **Aceydu**: Simulation of the Acey Ducey card game.
 
