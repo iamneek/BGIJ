@@ -1,6 +1,3 @@
-import java.util.Scanner;
-import java.util.concurrent.ThreadLocalRandom;
-import java.io.IOException;
 
 public class Aceydu {
   public static void main(String[] args) {
