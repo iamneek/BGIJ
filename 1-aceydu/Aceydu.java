@@ -97,7 +97,7 @@ public class Aceydu {
 }
 
 
-
+// should've implemented switch case. 
   public static void printCards(int[] Cards){
      for (int card :Cards) {
         if (card == 14) {
